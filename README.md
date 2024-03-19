@@ -1,4 +1,2 @@
-# nodejs-serverless-backend-app
-NodeJS Microservice Server less Banckend Project 
-A complete production-level NodeJS Microservice with Serverless technology.This whole project provide knowledge of build and deploying an enterprise-level application using NodeJS and using AWS infrastructure using infrastructure as code.
-This implementation follows the SOLID principle with a CQRS design pattern, and clean architecture.
+# Building Scalable NodeJS Microservices with Serverless Architecture: A SOLID Approach
+This project is a fully functional NodeJS microservice built with serverless technology, designed for enterprise-level applications. It demonstrates how to develop and deploy such an application using NodeJS and AWS infrastructure through infrastructure as code. The project adheres to SOLID principles, featuring a CQRS design pattern and clean architecture.
